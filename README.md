@@ -10,7 +10,7 @@ If you use this code for your work, please cite us.
 ```
 @article{Krishnan_Jeyakumar_Joseph Raj_2022,  
   title={Real-Time Eye Tracking Using Heat Maps},  
-  author={Krishnan, C. ., Jeyakumar, V., & Joseph Raj, A. N.},  
+  author={Krishnan, C., Jeyakumar, V., & Joseph Raj, A. N.},  
   journal={Malaysian Journal of Computer Science},  
   year={2024},  
   volume={35(4)},
@@ -21,4 +21,4 @@ If you use this code for your work, please cite us.
 ```
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
