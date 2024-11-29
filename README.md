@@ -13,10 +13,9 @@ If you use this code for your work, please cite us.
   author={Krishnan, C., Jeyakumar, V., & Joseph Raj, A. N.},  
   journal={Malaysian Journal of Computer Science},  
   year={2024},  
-  volume={35(4)},
-  page={339–358},
-  doi = {https://doi.org/10.22452/mjcs.vol35no4.3},  
-  url={https://ejournal.um.edu.my/index.php/MJCS/article/view/35825}  
+  volume={65(7)},
+  page={6587},
+  url={https://iovs.arvojournals.org/article.aspx?articleid=2799795}  
 }
 ```
 
