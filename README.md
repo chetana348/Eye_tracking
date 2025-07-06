@@ -68,8 +68,6 @@ If you use this code or methodology in your work, please cite:
 }
 ```
 
-> 🔗 [Access the paper here](https://iovs.arvojournals.org/article.aspx?articleid=2799795)
-
 ---
 
 ## 📄 License
